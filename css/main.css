@@ -45,3 +45,7 @@ body::-webkit-scrollbar {
 #exp4{
   border-radius:25px;
 }
+#wall{
+  width: 1000px;
+  height: 500px;
+}
