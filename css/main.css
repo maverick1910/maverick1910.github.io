@@ -50,10 +50,10 @@ body::-webkit-scrollbar {
   height: 500px;
 }
 #neuro{
-  border-radius: 61px;
+  border-radius: 50px;
 background:  #232531;
-box-shadow: inset 9px 9px 18px #141010, 
-            inset -9px -9px 18px #524242;
+box-shadow:  5px 5px 10px #141010, 
+             -5px -5px 10px #3e404e;
 width: 150px;
 height: 10%;
 text-align: center;
@@ -62,8 +62,8 @@ margin-left: 15px;
 #neuro1{
   border-radius: 61px;
 background:  #232531;
-box-shadow: inset 9px 9px 18px #141010, 
-            inset -9px -9px 18px #524242;
+box-shadow: inset 6px 6px 4px #141010, 
+            inset -6px -6px 4px #524242;
 width: 300px;
 height: 60px;
 text-align: center;
@@ -74,17 +74,17 @@ margin-left: -30px;
   margin-right: -100px;
 }
 #icons{
-  border-radius: 62px;
-background: #232531;
-box-shadow: inset 5px 5px 0px #141010, 
-            inset -5px -5px 0px #524242;
+border-radius: 5px;
+box-shadow:  5px 5px 10px #141010, 
+             -5px -5px 10px #3e3f49;
+    width: 40%;
 
 }
 #blogneuro{
   border-radius: 50px;
 background:  #232531;
-box-shadow:  20px 20px 60px #151111, 
-             -20px -20px 60px #53505e;
+box-shadow:  10px 10px 50px #151111, 
+             -10px -10px 50px #3e404e;
 margin-left: 60px;
 padding-top: 200px;
 height: 620px;
