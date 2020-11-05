@@ -5,6 +5,7 @@
 }
 #round{
   border-radius: 25px;
+  margin-left: 20px;
 }
 #exp,#exp1,#exp2{
     margin-top: -10%;
@@ -36,7 +37,8 @@ body::-webkit-scrollbar {
   }
 #exp3
 {
-  margin-left:-2%;
+  margin-left:5%;
+  margin-right: -10%;
 
 }
 #exp5{
@@ -67,7 +69,7 @@ box-shadow: inset 6px 6px 4px #141010,
 width: 300px;
 height: 60px;
 text-align: center;
-margin-left: -30px;
+margin-left: -10px;
 
 }
 #navb{
